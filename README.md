@@ -25,17 +25,6 @@ Find Maximum – Find the largest element.
 Subarray Extractor – Extract a part of the array.
 
 
-# Clone the repository
-git clone https://github.com/<your-username>/python_array_operations_menu_program.git
-
-# Navigate to the project folder
-cd python_array_operations_menu_program
-
-# Run the program
-python python_array_operations_menu_program.py
-
-
-
 
 Average Finder – Calculate the average of all elements.
 
